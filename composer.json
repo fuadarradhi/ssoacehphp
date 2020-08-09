@@ -1,0 +1,15 @@
+{
+    "name": "fuadarradhi/ssoacehphp",
+    "description": "SSO Aceh client SDK for PHP language",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fuad Ar-Radhi",
+            "email": "fuad.arradhi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
