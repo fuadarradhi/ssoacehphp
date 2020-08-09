@@ -10,23 +10,6 @@
 
 namespace SSOAceh\PHPClient;
 
-/**
- * SSO Result
- * return value untuk user setelah proses parsing,
- */
-class SSOResult{
-    public $ID;
-    public $NIK;
-    public $NIP;
-    public $Nama;
-    public $HP;
-    public $Email;
-    public $TelegramID;
-    public $EmailAlternatif;
-    public $Avatar;
-    public $Datetime;
-}
-
 class SSOClient{
 
     /**
