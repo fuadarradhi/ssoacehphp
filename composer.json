@@ -15,5 +15,5 @@
             "SSOAceh\\PHPClient\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
