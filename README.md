@@ -21,7 +21,7 @@ $sso = new \SSOAceh\PHPClient\SSOClient("/Path/ke/file/sso_secure.json");
 $res = $sso->parseToken($token);
 
 // result 
-echo $res->ID;
+echo $res->SessionID;
 echo $res->NIK;
 echo $res->NIP;
 echo $res->Nama;
