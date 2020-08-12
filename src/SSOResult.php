@@ -15,7 +15,7 @@ namespace SSOAceh\PHPClient;
  * return value untuk user setelah proses parsing,
  */
 class SSOResult{
-    public $ID;
+    public $SessionID;
     public $NIK;
     public $NIP;
     public $Nama;
