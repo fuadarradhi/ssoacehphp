@@ -25,7 +25,7 @@ class SSOClient{
      * kembali ke bentuk asalnya.
      */
     private $mapping = [
-            "id" => "ID",
+            "id" => "SessionID",
             "nk" => "NIK",
             "np" => "NIP",
             "nm" => "Nama",
